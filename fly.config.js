@@ -2,19 +2,13 @@ module.exports = {
   prompts: [
     {
       type: 'text',
-      name: 'username',
-      message: 'What is your GitHub username?'
-    },
-    {
-      type: 'number',
-      name: 'age',
-      message: 'How old are you?'
+      name: 'projectName',
+      message: 'What is your project name?'
     },
     {
       type: 'text',
-      name: 'about',
-      message: 'Tell something about yourself',
-      initial: 'Why should I?'
+      name: 'description',
+      message: 'What is your project description?'
     }
   ]
 }
