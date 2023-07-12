@@ -3,12 +3,13 @@ module.exports = {
     {
       type: 'text',
       name: 'projectName',
-      message: 'What is your project name?'
+      message: 'Input project name',
+      initial: process.cwd().split('/').reverse()[0]
     },
     {
       type: 'text',
       name: 'description',
-      message: 'What is your project description?'
+      message: 'Input project description'
     }
   ]
 }
