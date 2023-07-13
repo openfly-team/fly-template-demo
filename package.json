@@ -1,15 +1,21 @@
 {
   "name": "@openfly/template-demo",
   "version": "1.1.0",
-  "description": "fly template demo",
+  "description": "openfly template demo",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/openfly-team/fly-template-demo.git"
   },
   "keywords": [
-    "fly"
+    "openfly",
+    "scaffold",
+    "template"
   ],
-  "author": "紫竹<luozhu2021@gmail.com>",
+  "files": [
+    "template",
+    "fly.config.js"
+  ],
+  "author": "紫竹 <luozhu2021@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/openfly-team/fly-template-demo/issues"
