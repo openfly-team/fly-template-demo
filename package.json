@@ -4,7 +4,7 @@
   "description": "openfly template demo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openfly-team/fly-template-demo.git"
+    "url": "git+https://github.com/openfly-team/template-demo.git"
   },
   "keywords": [
     "openfly",
@@ -22,7 +22,7 @@
   "author": "紫竹 <luozhu2021@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/openfly-team/fly-template-demo/issues"
+    "url": "https://github.com/openfly-team/template-demo/issues"
   },
-  "homepage": "https://github.com/openfly-team/fly-template-demo#readme"
+  "homepage": "https://github.com/openfly-team/template-demo#readme"
 }
