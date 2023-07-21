@@ -15,6 +15,10 @@
     "template",
     "fly.config.js"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "author": "紫竹 <luozhu2021@gmail.com>",
   "license": "MIT",
   "bugs": {
